@@ -1,5 +1,6 @@
 # Workout-Tracker
 
+[![Build Status](https://img.shields.io/badge/Project-Nosql--Express-yellow)](https://img.shields.io/badge/Project-Nosql--Express-yellow)
 
 # User Story
 
@@ -18,3 +19,8 @@ Add exercises to a previous workout plan.
 Add new exercises to a new workout plan.
 
 View workout statistics to visualize progress
+
+# Deployment
+
+[Heroku](https://polar-woodland-29798.herokuapp.com/)
+
